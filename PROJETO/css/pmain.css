@@ -1,0 +1,36 @@
+body {
+	background-image:url(../resources/background/menu_fundo.png);
+	background-repeat: no-repeat;
+	margin-left: auto;
+	margin-right: auto;	
+}
+
+button {
+	cursor: pointer;
+	background-color: inherit;
+	position: relative;
+	border: none;
+	padding: 0px;
+	margin-left: 90px;
+	top: 310px;
+	display: block;
+}
+
+button img {
+	margin: 3px;
+	height: 40px;
+	width: 200px;
+	opacity: 0.9;
+}
+
+titulo {
+	margin-left: 0px;
+	top:140px;
+	margin-right: auto;
+	position: absolute;
+}
+
+titulo img{
+	height: 280px;
+	width: 390px;
+}
